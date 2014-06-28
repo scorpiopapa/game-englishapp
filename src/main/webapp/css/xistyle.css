@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+body { background:#2f6593;  }
+.xibox { margin-left:auto; margin-right:auto; margin-top:6%; display:block; background:#4789c5; width:70%; height:auto; min-height:360px; border:1px #006699 solid; border-radius:5px;  }
+.xi_ok { margin-left:auto; margin-right:auto; margin-top:6%; width:70%;  height:auto; line-height:30px; text-align:center; color:#FFF; }
+.xiluruk {  margin-left:auto; margin-right:auto; display:block; width:92%; height:auto; }
+.xiluruk dl { float:left; display:block; width:99%; height:auto; }
+.xiluruk dt { float:left; display:block; width:77%; line-height:50px; font-size:20px; text-align:center; color:#FFF;  }
+.xiluruk dd { float:left; display:inline-block; font:14px; margin-top:6px; clear:both; }
+.xiluruk dd span { float:left; display:block; width:72px; color:#FFF; }
+.xiluruk dd .xiwenbenk { float:left; display:block; width:600px; margin-left:20px; padding:3px; border:none; background:#f2f2f2; border-radius:3px; }
+.xiluruk dd .xiwenbenqy { float:left; display:block; width:600px; margin-left:20px; height:100px; padding:3px; border:none; background:#f2f2f2; border-radius:3px; } 
+.xiluruk dd .querenk { float:left; display:block; width:77px; margin-left:600px; border:1px #006699 solid; border-radius:3px; line-height:30px; 6
