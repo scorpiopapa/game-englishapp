@@ -62,7 +62,7 @@ public class Service {
 		int sid = saveData(category, uid, email, feedback, game);
 		
 		// send notice mail
-		String title = sid + ":" + uid + " " + getMessage("title.game") + " - " + getMessage("select." + category);
+		String title = sid + " " + getMessage("title.game") + " - " + getMessage("select." + category);
 //		feedback += feedback;
 //		+ "\\n" + "SELECT * FROM USER_FEEDBACK WHERE SID = '" + sid + "'";
 		sendMail(title, feedback);
